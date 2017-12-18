@@ -1,0 +1,13 @@
+episode,company,description,background,gender,age,industry,labor_size,offerer,offer_amount (billion),offer_equity (percent),condition,accepted
+5,Tipsy Art,,,female,young,art,,owner,2.2,10,,
+,,,,,,,,Linh,2.2,40,"must pay back using profit in 1-2 years, reducing 40% to 10%",
+,,,,,,,,Vuong,2.2,40,"70% of 2.2b is cash, 30% is from location",
+,,,,,,,,Khoa,2.2,35,use his tea house location,1
+,,,,,,,,Phu,2.2,25,,
+,Atadi,Phan mem quan ly phong khach san binh dan,engineer,male,middle,tech,,owner,27,15,,
+,,,,,,,,owner,62,32,,
+,,,,,,,,Phu,27,50,"in stages, conditional on the air ticket business",
+,,,,,,,,owner,27,30,,
+,,,,,,,,Phu,27,45,,
+,,,,,,,,owner,27,35,,
+5,Bibox,May doc sach e ink (basically Kindle) + connected to kho sach tieng Viet online,,male,middle,tech,6,owner,5,20,,
